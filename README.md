@@ -7,7 +7,7 @@
 - [Next](https://nextjs.org/)
 
 # Como executar o projeto
-### para instalar todas as depend
+### para instalar todas as dependencias
 ```bash
 npm install
 ```
